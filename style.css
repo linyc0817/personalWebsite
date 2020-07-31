@@ -1,0 +1,101 @@
+/* https://bit.ly/2NEy3uo */
+/*Google Font Class*/
+.pf{
+    font-family: 'Playfair Display', serif;
+}
+.pp{
+    font-family: 'Poppins', sans-serif;
+}
+/*新增文字色彩通用樣式*/
+.text-pink{
+    color: #FF65C2;
+}
+.text-gray{
+    color: #868686;
+}
+.text-purple{
+    color: #9460F4;
+}
+.text-orange{
+    color: #FFAC62;
+}
+/*新增背景色彩通用樣式*/
+.bg-pink{
+    background: #FF65C2;
+}
+.bg-lightgray{
+    background: #e8e8e8;
+}
+/*設定新按鈕顏色*/
+.btn-pink{
+    background: #FF65C2;
+    color: #fff;
+}
+/*新增項目樣式*/
+.list-type-1{
+    padding-left: 0px;
+    margin-bottom: 0px;
+}
+.list-type-1 li{
+    /*移除項目符號*/
+    list-style: none;
+    font-size: 1.25rem;
+    line-height: 2.625rem;
+    color: #333;
+}
+.list-type-1 li i{
+    margin-right: 1rem;
+}
+/*設定大尺寸上下內距*/
+.py-large{
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+/*主選單樣式*/
+.main-nav a{
+    color: #868686;
+}
+.main-nav a.btn-pink{
+    color: #fff;
+}
+.main-nav .navbar-brand i{
+    color: #ff65c2;
+}
+.main-nav .navbar-brand{
+    font-size: 2rem;
+}
+/*公司簡介區塊*/
+.company h2{
+    font-size: 3rem;
+    color: #868686;
+}
+.company p{
+    font-size: 0.875rem;
+    color: #868686;
+}
+/*公司簡介區塊小物件設定*/
+.sp-item i{
+    font-size: 3rem;
+}
+ 
+.sp-item-2 i{
+    font-size: 4rem;
+}
+.sp-item-2 p{
+    font-size: 0.875rem;
+}
+ 
+.sp-item-3 h4{
+    font-weight: bold;
+}
+.sp-item-3 h5{
+    font-weight: normal;
+}
+ 
+.sp-item-3 img{
+    width: 80px;
+    height: 80px;
+    border-radius: 80px;
+    position: relative;
+    top: 10px;
+}
