@@ -31,6 +31,10 @@
     background: #FF65C2;
     color: #fff;
 }
+.btn-orange{
+    background: #FFAC62;
+    color: #fff;
+}
 /*新增項目樣式*/
 .list-type-1{
     padding-left: 0px;
